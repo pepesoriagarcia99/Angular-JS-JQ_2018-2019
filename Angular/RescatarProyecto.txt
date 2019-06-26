@@ -1,0 +1,9 @@
+npm install                //para volver a instalar NodeMOdule
+npm install -g @angular/cli  //para volver a instalar
+npm install --save @angular/material @angular/cdk @angular/animations //para volver a instalar material
+
+ng serve -o                 //para ejecutar el server
+ng g c \componente\           //crear componente
+ng g s \Servicio\               //crear servicio   
+
+ng new my-proyecto-angular //nuevo proyecto
